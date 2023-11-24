@@ -2,7 +2,7 @@ import React from 'react'
 import About from './components/About'
 import Search from './components/Search'
 import { View, StatusBar } from 'react-native'
-import { TabNavigator } from 'react-navigation'
+// import { TabNavigator } from 'react-navigation'
 
 const Tabs = TabNavigator({
   Search: { screen: Search },
