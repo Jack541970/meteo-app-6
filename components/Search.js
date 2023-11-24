@@ -1,7 +1,7 @@
 import React from 'react'
 import style from '../Style'
 import { TextInput, Image, Button, View, Keyboard } from 'react-native'
-import { StackNavigator } from 'react-navigation'
+// import { StackNavigator } from 'react-navigation'
 import List from './List'
 
 class Search extends React.Component {
